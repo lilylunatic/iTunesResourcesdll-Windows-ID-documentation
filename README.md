@@ -1,4 +1,5 @@
 #ItunesResources.dll
+
 Extracting the contents of iTunesresources.dll to edit them and theme the application still works with [iTunes Skin Tools](https://github.com/Apophenic/iTunes-Skins-Windows) or other resource (de-)compilers.
 
 The contents of the dll are a mess since old icons (that are not used in iTunes anymore) are still in there alongside with what looks like darkmode, even though  there is no darkmode on windows.
