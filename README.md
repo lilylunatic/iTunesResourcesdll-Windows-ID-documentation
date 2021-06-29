@@ -84,6 +84,7 @@ After hours of repeatedly killing iTunes, editing mages injecting them, and star
 ## Example images
 
 ![Custom top bar apple logo and miniplayer button](https://raw.githubusercontent.com/Benji7103/iTunesResourcesdll-Windows-ID-documentation/main/screenshots/Custom_top_bar_logo_and_miniplayer_button.png)
+Custom top bar apple logo and miniplayer button
 
 ![Custom iPod Video icon](https://raw.githubusercontent.com/Benji7103/iTunesResourcesdll-Windows-ID-documentation/main/screenshots/Custom_iPodvideo_Icon.png)
 
