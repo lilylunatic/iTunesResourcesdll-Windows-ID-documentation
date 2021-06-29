@@ -1,5 +1,5 @@
 
-# ItunesResources.dll
+# iTunesResources.dll
 
 Extracting the contents of iTunesresources.dll to edit them and theme the application still works with [iTunes Skin Tools](https://github.com/Apophenic/iTunes-Skins-Windows) or other resource (de-)compilers.
 
@@ -11,7 +11,7 @@ After hours of repeatedly killing iTunes, editing mages injecting them, and star
 
 ## ID's:
 
-- 1, 2, 2200, 15001, 15002 // itunes logos
+- 1, 2, 2200, 15001, 15002 // iTunes logos
 - 390, 391; 1642, 1643 unused play pause buttons
 - 515 - play, 516 - play but reversed, 517 - pause, 518 - stop, 519 - rewind, 520 - forward // taskbar playback controls
 - 522 - play, 523 - play but reversed, 524 - pause, 525 - stop, 526 - rewind, 527 - forward // taskbar playback controls when inactive
