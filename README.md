@@ -135,6 +135,10 @@ Custom battery indicator
 
 ![Custom battery indicator](https://raw.githubusercontent.com/Benji7103/iTunesResourcesdll-Windows-ID-documentation/main/screenshots/Custom_Battery_indicator.png)
 
+Custom Settings tab icons
+
+![Custom Settings tab icons](https://raw.githubusercontent.com/Benji7103/iTunesResourcesdll-Windows-ID-documentation/main/screenshots/Custom_settings_tabs.png)
+
 Custom iTunes file drag icon
 
 ![Custom iTunes file drag icon](https://raw.githubusercontent.com/Benji7103/iTunesResourcesdll-Windows-ID-documentation/main/screenshots/Custom_drag_file_icon.png)
