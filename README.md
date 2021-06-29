@@ -1,5 +1,5 @@
 
-#ItunesResources.dll
+# ItunesResources.dll
 
 Extracting the contents of iTunesresources.dll to edit them and theme the application still works with [iTunes Skin Tools](https://github.com/Apophenic/iTunes-Skins-Windows) or other resource (de-)compilers.
 
@@ -9,7 +9,7 @@ The Resource IDs in the [documentation](https://htmlpreview.github.io/?https://g
 
 After hours of repeatedly killing iTunes, editing mages injecting them, and starting iTunes again I got this list of IDs.
 
-##ID's:
+## ID's:
 
 - 1, 2, 2200, 15001, 15002 // itunes logos
 - 390, 391; 1642, 1643 unused play pause buttons
@@ -54,7 +54,7 @@ After hours of repeatedly killing iTunes, editing mages injecting them, and star
 - 16208 // three dot menu in the album track view
 - 17201 // apple logo displayed in about itunes
 
-##Changing the device icon displays
+## Changing the device icon displays
 **Mainline iPods**
 
 - 1st/2nd gen // 18x13px
@@ -81,7 +81,7 @@ After hours of repeatedly killing iTunes, editing mages injecting them, and star
 - the blue song/gategory select background
 - a lot of buttons 
 
-##Example images
+## Example images
 
 ![Custom top bar apple logo and miniplayer button](https://raw.githubusercontent.com/Benji7103/iTunesResourcesdll-Windows-ID-documentation/main/screenshots/Custom_top_bar_logo_and_miniplayer_button.png)
 
