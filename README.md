@@ -83,32 +83,58 @@ After hours of repeatedly killing iTunes, editing mages injecting them, and star
 
 ## Example images
 
+Custom top bar apple logo and miniplayer button
+
 ![Custom top bar apple logo and miniplayer button](https://raw.githubusercontent.com/Benji7103/iTunesResourcesdll-Windows-ID-documentation/main/screenshots/Custom_top_bar_logo_and_miniplayer_button.png)
 
-Custom top bar apple logo and miniplayer button
+Custom iPod Video icon
 
 ![Custom iPod Video icon](https://raw.githubusercontent.com/Benji7103/iTunesResourcesdll-Windows-ID-documentation/main/screenshots/Custom_iPodvideo_Icon.png)
 
+Custom three dot circle menu
+
 ![Custom three dot circle menu](https://raw.githubusercontent.com/Benji7103/iTunesResourcesdll-Windows-ID-documentation/main/screenshots/Custom_three_dot_circle_menu.png)
+
+Custom three dot song menu
 
 ![Custom three dot song menu](https://raw.githubusercontent.com/Benji7103/iTunesResourcesdll-Windows-ID-documentation/main/screenshots/Custom_three_dot_menu.png)
 
+Custom about iTunes section (edited logos and buttons)
+
 ![Custom about iTunes section (edited logos and buttons)](https://raw.githubusercontent.com/Benji7103/iTunesResourcesdll-Windows-ID-documentation/main/screenshots/Custom_buttons_and_icons_about_itunes.png)
 
-![custom window controls](https://raw.githubusercontent.com/Benji7103/iTunesResourcesdll-Windows-ID-documentation/main/screenshots/Custom_Window_Controls.png)
+Custom window controls
+
+![Custom window controls](https://raw.githubusercontent.com/Benji7103/iTunesResourcesdll-Windows-ID-documentation/main/screenshots/Custom_Window_Controls.png)
+
+Custom empty CD cover
 
 ![Custom empty CD cover](https://raw.githubusercontent.com/Benji7103/iTunesResourcesdll-Windows-ID-documentation/main/screenshots/Custom_Empty_CD_cover.png)
 
-![custom top bar (playback controls and volume control slider)](https://raw.githubusercontent.com/Benji7103/iTunesResourcesdll-Windows-ID-documentation/main/screenshots/Custom_top_bar.png)
+Custom top bar (playback controls and volume control slider)
 
-![custom miniplayer (track slider and tab buttons)](https://raw.githubusercontent.com/Benji7103/iTunesResourcesdll-Windows-ID-documentation/main/screenshots/Custom_tab%20buttons_and_track_slider_miniplayer.png)
+![Custom top bar (playback controls and volume control slider)](https://raw.githubusercontent.com/Benji7103/iTunesResourcesdll-Windows-ID-documentation/main/screenshots/Custom_top_bar.png)
+
+Custom miniplayer (track slider and tab buttons
+
+![Custom miniplayer (track slider and tab buttons)](https://raw.githubusercontent.com/Benji7103/iTunesResourcesdll-Windows-ID-documentation/main/screenshots/Custom_tab%20buttons_and_track_slider_miniplayer.png)
+
+Custom album play/pause button
 
 ![Custom album play/pause button](https://raw.githubusercontent.com/Benji7103/iTunesResourcesdll-Windows-ID-documentation/main/screenshots/Custom_Album_play_button.png)
 
+Custom genius mix play/pause button
+
 ![Custom genius mix play/pause button](https://raw.githubusercontent.com/Benji7103/iTunesResourcesdll-Windows-ID-documentation/main/screenshots/Custom_genius_mix_pause_button.png)
+
+Custom taskbar miniplayer controls
 
 ![Custom taskbar miniplayer controls](https://raw.githubusercontent.com/Benji7103/iTunesResourcesdll-Windows-ID-documentation/main/screenshots/Custom_taskbarplayer_buttons.png)
 
-![custom battery indicator](https://raw.githubusercontent.com/Benji7103/iTunesResourcesdll-Windows-ID-documentation/main/screenshots/Custom_Battery_indicator.png)
+Custom battery indicator
+
+![Custom battery indicator](https://raw.githubusercontent.com/Benji7103/iTunesResourcesdll-Windows-ID-documentation/main/screenshots/Custom_Battery_indicator.png)
+
+Custom iTunes file drag icon
 
 ![Custom iTunes file drag icon](https://raw.githubusercontent.com/Benji7103/iTunesResourcesdll-Windows-ID-documentation/main/screenshots/Custom_drag_file_icon.png)
