@@ -22,6 +22,7 @@ After hours of repeatedly killing iTunes, editing mages injecting them, and star
 - 15023 // shuffle top bar controls when a song is playing
 - 15024 // repeat controls when a song is playing
 - 15028 // top bar playback slider
+- 15029 // sync progress bar
 - 15035 // top bar now playing background
 - 15037 // mini player button when no song is playing
 - 15038 // miniplayer hover button
@@ -114,6 +115,10 @@ Custom empty CD cover
 Custom top bar (playback controls and volume control slider)
 
 ![Custom top bar (playback controls and volume control slider)](https://raw.githubusercontent.com/Benji7103/iTunesResourcesdll-Windows-ID-documentation/main/screenshots/Custom_top_bar.png)
+
+Custom sync progress bar
+
+![Custom sync progress bar](https://raw.githubusercontent.com/Benji7103/iTunesResourcesdll-Windows-ID-documentation/main/screenshots/Custom_Sync_Progressbar.png)
 
 Custom miniplayer (track slider and tab buttons
 
