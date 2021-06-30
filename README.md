@@ -114,7 +114,7 @@ Custom empty CD cover
 
 Custom top bar (playback controls and volume control slider)
 
-![Custom top bar (playback controls and volume control slider)](https://raw.githubusercontent.com/Benji7103/iTunesResourcesdll-Windows-ID-documentation/main/screenshots/Custom_top_bar.png)
+![Custom top bar (playback controls and volume control slider)](https://raw.githubusercontent.com/Benji7103/iTunesResourcesdll-Windows-ID-documentation/main/screenshots/Custom_top_bar_with_buttons.png)
 
 Custom sync progress bar
 
