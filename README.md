@@ -7,7 +7,7 @@ The contents of the dll are a mess since old icons (that are not used in iTunes 
 
 The Resource IDs in the [documentation](https://htmlpreview.github.io/?https://github.com/Apophenic/iTunes-Skin-Tools/blob/master/Resource%20IDs/ResourceIDs.html) provided for [iTunes Skin Tools](https://github.com/Apophenic/iTunes-Skins-Windows) is outdated for iTunes 12.11.x.
 
-After hours of repeatedly killing iTunes, editing images injecting them, and starting iTunes again I got this list of IDs.
+After hours of repeatedly killing iTunes, editing images, injecting them, and starting iTunes again I got this list of IDs.
 
 ## ID's:
 
